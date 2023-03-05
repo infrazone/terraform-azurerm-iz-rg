@@ -1,6 +1,6 @@
 locals {
   tags = {
-    Project = "Azure/azure-data-labs-modules"
+    Project = "Azure/azure-iac-library"
     Module  = "resource-group"
     Toolkit = "Terraform"
   }
